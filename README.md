@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/danielkellyio/awake-template) 
+
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
 # Features
